@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pandeypushpesh
 - 👀 I’m interested in web development , machine learning , and AI
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on cloud computing
+- 💞️ I’m looking to collaborate on webdevelopment and dsa
 - 📫 How to reach me : insta @pushpesh.pk
 
 <!---
