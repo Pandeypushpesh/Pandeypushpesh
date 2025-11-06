@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Pushpesh Kumar!  
 
-🚀 **Web Developer | AI & ML Enthusiast | Open Source Learner**
-
 ---
 
 ### 👨‍💻 About Me  
