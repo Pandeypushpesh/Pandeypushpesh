@@ -21,7 +21,7 @@
 
 ### 🌍 Let’s Connect  
 📷 Instagram — [@pushpesh.pk](https://www.instagram.com/pushpesh.pk)  
-💼 LinkedIn — [Pushpesh Kumar](#) *([add your link](https://www.linkedin.com/in/pushpeshpk/))*  
+💼 LinkedIn — [Pushpesh Kumar](#) *([link](https://www.linkedin.com/in/pushpeshpk/))*  
 📧 Email — *pushpeshpandey@zohomail.in*  
 
 ---
